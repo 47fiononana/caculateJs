@@ -1,0 +1,23 @@
+#clear{
+    width:187px;
+}
+.formstyle{
+   width: 186px;
+    height: 276px;
+    margin: auto;
+    border:2px solid black;
+    background-image: url(Genius-logo.jpg);
+    background-size: cover;
+}
+input{
+    width: 59px;
+    background-color: lightslategray;
+    color:white;
+}
+#answerstyle{
+    width: 186px;
+  
+}
+.container{
+    background-color: white;
+}
