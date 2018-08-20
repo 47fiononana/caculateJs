@@ -14,10 +14,17 @@ input{
     background-color: lightslategray;
     color:white;
 }
+input:hover{
+    color: blue;
+}
 #answerstyle{
     width: 186px;
   
 }
 .container{
     background-color: white;
+}
+body{
+    background-color: burlywood;
+  
 }
